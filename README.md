@@ -14,7 +14,7 @@ irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cad
 
 ![](https://github.com/gustasvos/Drill/blob/master/ihc/assets/drillProb.png)
 
-# Intergrantes
+# Integrantes
 
 Bárbara, Felipe Mancilha e Gustavo Ribeiro.
 
