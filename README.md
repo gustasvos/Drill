@@ -13,3 +13,10 @@ O problema que iremos solucionar esta relacionado a falta de uso da bucha ao per
 irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cada peça.
 
 ![](https://github.com/gustasvos/Drill/blob/master/ihc/assets/drillProb.png)
+
+# Intergrantes
+
+Bárbara, Felipe Mancilha e Gustavo Ribeiro.
+Professor: Giuliano Bertoti.
+Disciplina: Interação Humano Computador.
+Curso: Análise e desenvolvimento de sistemas, Fatec São José dos Campos.
