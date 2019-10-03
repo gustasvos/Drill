@@ -11,3 +11,5 @@ usado na qualificação não estava sendo eficaz.
 
 O problema que iremos solucionar esta relacionado a falta de uso da bucha ao perfurar peças verticalmente. Isso faz com que o furo fique 
 irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cada peça.
+
+![](https://github.com/gustasvos/Drill/blob/master/ihc/assets/drillProb.png)
