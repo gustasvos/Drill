@@ -16,7 +16,7 @@ irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cad
 
 # Integrantes
 
-Bárbara, Felipe Mancilha e Gustavo Ribeiro.
+Felipe Mancilha e Gustavo Ribeiro.
 
 Professor: Giuliano Bertoti.
 
