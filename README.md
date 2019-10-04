@@ -3,7 +3,7 @@
 Este é o repositório para um projeto realizado na Fatec de São José dos Campos, visando solucionar um problema da empresa relacionado
 a capacitação dos funcionários.
 
-Link para o projeto: https://codepen.io/gustasvos/pen/eYYObPG
+Link para visualização do projeto: https://codepen.io/gustasvos/pen/eYYObPG
 
 # Problema
 
