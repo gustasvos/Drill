@@ -18,7 +18,7 @@ irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cad
 
 # Envolvidos no projeto
 
-Gustavo Ribeiro.
+Desenvolvedor do projeto: Gustavo Ribeiro.
 
 Professor: Giuliano Bertoti.
 
@@ -26,4 +26,4 @@ Empresa: LATECOERE.
 
 Disciplina: Interação Humano Computador.
 
-Curso: Análise e desenvolvimento de sistemas, Fatec São José dos Campos.
+Curso: Análise e desenvolvimento de sistemas, Fatec de São José dos Campos.
