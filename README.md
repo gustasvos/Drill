@@ -1,6 +1,6 @@
 # Drill
 
-Este é o repositório para um projeto realizado na Fatec de São José dos Campos, visando solucionar um problema da empresa relacionado
+Este é o repositório para um projeto realizado na Fatec de São José dos Campos, visando solucionar um problema da empresa LATECOERE relacionado
 a capacitação dos funcionários.
 
 Link para visualização do projeto: https://codepen.io/gustasvos/pen/eYYObPG
@@ -16,11 +16,13 @@ irregular, a peça é perdida e a empresa tem um prejuizo de 1500 reais para cad
 
 ![](https://github.com/gustasvos/Drill/blob/master/ihc/assets/drillProb.png)
 
-# Integrantes
+# Envolvidos no projeto
 
-Felipe Mancilha e Gustavo Ribeiro.
+Gustavo Ribeiro.
 
 Professor: Giuliano Bertoti.
+
+Empresa: LATECOERE.
 
 Disciplina: Interação Humano Computador.
 
